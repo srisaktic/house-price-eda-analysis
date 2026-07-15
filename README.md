@@ -107,5 +107,5 @@ jupyter notebook house_prices_eda.ipynb
 
 ## 👤 Author
 **Your Name**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/sri-sakticharan/)
 - GitHub: [your-github](https://github.com/yourusername)
