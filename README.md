@@ -87,7 +87,7 @@ house-price-eda-analysis/
 ## 🚀 How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/house-price-eda-analysis
+git clone https://github.com/srisaktic/house-price-eda-analysis
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
